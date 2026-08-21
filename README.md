@@ -1,6 +1,6 @@
 ## Sintagma Group
 
-Siamo una realtà costruita sull'esperienza concreta di chi lavora ogni giorno nel Noleggio Operativo. Con oltre 30 anni nel settore Horeca, Food & Beverage e nella progettazione, abbiamo sviluppato una competenza unica che ci permette di comprenderne a fondo il valore.
+Questo è la pagina di github per supportare lo sviluppo di nuovi soluzioni per il Noleggio Operativo.
 
 
 <!--
